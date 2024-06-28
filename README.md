@@ -28,7 +28,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/stopwatch.git
+    git clone https://github.com/Bhya23cse/PRODIGY_WD_02.git
     ```
 
 2. Navigate to the project directory:
@@ -40,14 +40,14 @@ To run this project locally, follow these steps:
 
 ## Usage
 
-- **Stopwatch Controls**: Use the "Start" button to begin the stopwatch. Click "Stop" to pause the timer, and "Reset" to clear and restart the stopwatch.
-- **Elapsed Time Display**: The stopwatch displays elapsed time in hours, minutes, and seconds format.
+- **Stopwatch Controls**: Use the "Start" button to begin the stopwatch. click "Reset" to clear and restart the stopwatch.
+- **Elapsed Time Display**: The stopwatch displays elapsed time in hours, minutes,seconds , and mili-second format.
 
 ## Code Overview
 
 ### HTML
 
-The HTML structure includes buttons for start, stop, and reset functionalities, and an area to display the elapsed time.
+The HTML structure includes buttons for start and reset functionalities, and an area to display the elapsed time.
 
 ### CSS
 
@@ -73,13 +73,10 @@ Contributions are welcome! If you would like to contribute to this project, plea
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
 
 If you have any questions or suggestions, feel free to contact me:
 
-- Email: your-email@example.com
-- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname/)
+- Email: bhya23cse@gmail.com
+- LinkedIn: [Bhola Yadav](https://www.linkedin.com/in/bhya23cse/)
