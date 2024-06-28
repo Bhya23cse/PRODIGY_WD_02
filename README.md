@@ -20,7 +20,7 @@ The project features a stopwatch interface that allows users to start, stop, and
 
 ## Demo
 
-You can view a live demo of the stopwatch [here](https://example.com).
+You can view a live demo of the stopwatch [here](https://github.com/Bhya23cse/PRODIGY_WD_02/).
 
 ## Installation
 
