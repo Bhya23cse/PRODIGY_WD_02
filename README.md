@@ -8,8 +8,8 @@ The project features a stopwatch interface that allows users to start, stop, and
 
 ## Features
 
-- Start, stop, and reset functionality for the stopwatch
-- Displays elapsed time in hours, minutes, and seconds format
+- Start and reset functionality for the stopwatch
+- Displays  time in hours, minutes, and seconds format
 - Simple and intuitive user interface
 
 ## Technologies Used
@@ -41,13 +41,13 @@ To run this project locally, follow these steps:
 ## Usage
 
 - **Stopwatch Controls**: Use the "Start" button to begin the stopwatch. click "Reset" to clear and restart the stopwatch.
-- **Elapsed Time Display**: The stopwatch displays elapsed time in hours, minutes,seconds , and mili-second format.
+- **Time Display**: The stopwatch displays time in hours, minutes,seconds , and mili-second format.
 
 ## Code Overview
 
 ### HTML
 
-The HTML structure includes buttons for start and reset functionalities, and an area to display the elapsed time.
+The HTML structure includes buttons for start and reset functionalities, and an area to display the time.
 
 ### CSS
 
